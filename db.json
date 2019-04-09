@@ -1,0 +1,89 @@
+{
+  "data": {
+    "location": {
+      "id": "",
+      "created_at":	"",
+      "updated_at":	"",
+      "contry_code": "",
+      "address": "",
+      "headquarter": "",
+      "telephone": ""
+    },
+    "socialnetwork": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "user_id": "",
+      "name": "",
+      "link": ""
+    },
+    "role": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "name": ""
+    },
+    "event": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "name": "",
+      "status": "",
+      "created_by_id": "",
+      "location_ib": ""
+    },
+    "user": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "firstname": "",
+      "lastname": "",
+      "enabled": "",
+      "email": "",
+      "telephone": "",
+      "birthdate": "",
+      "role_id": "",
+      "socialnetwork_id": ""
+    },
+    "user_role": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "user_id": "",
+      "role_id": ""
+    },
+    "vote": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "from": "",
+      "to": "",
+      "favorite": "",
+      "quantity": ""
+    },
+    "user_event": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "user_id": "",
+      "event_id": ""
+    },
+    "comment": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "from": "",
+      "to": "",
+      "comment": ""
+    },
+    "rotation": {
+      "id": "",
+      "created_at": "",
+      "updated_at": "",
+      "round": "",
+      "position": "",
+      "user1_id": "",
+      "user2_id": ""
+    }
+  }
+}
